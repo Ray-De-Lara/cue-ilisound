@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/cue-ilisound/static/css/main.87d137c5.chunk.css",
+    "main.js": "/cue-ilisound/static/js/main.87979b00.chunk.js",
+    "main.js.map": "/cue-ilisound/static/js/main.87979b00.chunk.js.map",
+    "runtime-main.js": "/cue-ilisound/static/js/runtime-main.4aa5f3d4.js",
+    "runtime-main.js.map": "/cue-ilisound/static/js/runtime-main.4aa5f3d4.js.map",
+    "static/js/2.bfe48725.chunk.js": "/cue-ilisound/static/js/2.bfe48725.chunk.js",
+    "static/js/2.bfe48725.chunk.js.map": "/cue-ilisound/static/js/2.bfe48725.chunk.js.map",
+    "index.html": "/cue-ilisound/index.html",
+    "static/css/main.87d137c5.chunk.css.map": "/cue-ilisound/static/css/main.87d137c5.chunk.css.map",
+    "static/js/2.bfe48725.chunk.js.LICENSE.txt": "/cue-ilisound/static/js/2.bfe48725.chunk.js.LICENSE.txt",
+    "static/media/gabriel.43b2b417.jpg": "/cue-ilisound/static/media/gabriel.43b2b417.jpg",
+    "static/media/img-10.ac800a2e.jpg": "/cue-ilisound/static/media/img-10.ac800a2e.jpg",
+    "static/media/img-10500.488e60a4.pdf": "/cue-ilisound/static/media/img-10500.488e60a4.pdf",
+    "static/media/img-11.9acab8f9.jpg": "/cue-ilisound/static/media/img-11.9acab8f9.jpg",
+    "static/media/img-12.776c633b.jpg": "/cue-ilisound/static/media/img-12.776c633b.jpg",
+    "static/media/img-15000.01980e91.pdf": "/cue-ilisound/static/media/img-15000.01980e91.pdf",
+    "static/media/img-3000.b9ae7086.pdf": "/cue-ilisound/static/media/img-3000.b9ae7086.pdf",
+    "static/media/img-3500.d309fca9.pdf": "/cue-ilisound/static/media/img-3500.d309fca9.pdf",
+    "static/media/img-4200.170a1402.pdf": "/cue-ilisound/static/media/img-4200.170a1402.pdf",
+    "static/media/img-4800.9fee4400.pdf": "/cue-ilisound/static/media/img-4800.9fee4400.pdf",
+    "static/media/img-6500.0e9408bd.pdf": "/cue-ilisound/static/media/img-6500.0e9408bd.pdf",
+    "static/media/App.css": "/cue-ilisound/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-8500.5e2a97a3.pdf": "/cue-ilisound/static/media/img-8500.5e2a97a3.pdf",
+    "static/media/img-9.3a7cd35c.jpg": "/cue-ilisound/static/media/img-9.3a7cd35c.jpg",
+    "static/media/rayito.57fa7075.jpg": "/cue-ilisound/static/media/rayito.57fa7075.jpg",
+    "static/media/ruben.fd80978c.jpg": "/cue-ilisound/static/media/ruben.fd80978c.jpg",
+    "static/media/video-2.30312ab8.mp4": "/cue-ilisound/static/media/video-2.30312ab8.mp4",
+    "static/media/viry.8e2d7dfb.jpg": "/cue-ilisound/static/media/viry.8e2d7dfb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aa5f3d4.js",
+    "static/js/2.bfe48725.chunk.js",
+    "static/css/main.87d137c5.chunk.css",
+    "static/js/main.87979b00.chunk.js"
+  ]
+}
